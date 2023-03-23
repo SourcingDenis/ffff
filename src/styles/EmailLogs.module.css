@@ -1,0 +1,16 @@
+.emailLogs {
+    margin: 1rem 0;
+    padding: 1rem;
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+  }
+  
+  .logEntry {
+    margin-bottom: 1rem;
+  }
+  
+  .logEntry:last-child {
+    margin-bottom: 0;
+  }
+  
